@@ -19,7 +19,7 @@ to reduce accidents and improve road safety.
 <h2>📄 Project Report</h2>
 <p>
 Read the detailed project report:  
-<a href="./final%20report%20abhi.pdf" target="_blank">Open PDF Report</a>
+<a href="Project Report.pdf" target="_blank">Open PDF Report</a>
 </p>
 
 <hr>
